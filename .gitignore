@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# zip
+/zip
+
+# misc
+.env
+.env.dev
